@@ -1,0 +1,20 @@
+.order{
+    width: 100%;
+    height: 100%;
+}
+.el-container{
+    width: 100%;
+    height: 100%;
+}
+.order-title{
+    font-size: 16px;
+    padding-left:10px;
+    margin-bottom:10px;
+}
+.el-table{
+    margin-bottom:20px;
+}
+.el-pagination{
+    width: 1080px;
+    text-align: center;
+}
